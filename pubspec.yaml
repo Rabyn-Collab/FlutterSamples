@@ -30,13 +30,8 @@ dependencies:
   cupertino_icons: ^1.0.2
   flutter_riverpod: ^0.14.0
   http: ^0.13.1
-  firebase_core: ^1.0.3
-  cloud_firestore: ^1.0.4
-  intl: ^0.17.0
-  firebase_auth: ^1.0.2
   bubble_tab_indicator: any
   carousel_slider: any
-  page_transition: any
   flutter_webview_plugin: ^0.3.11
 
 
