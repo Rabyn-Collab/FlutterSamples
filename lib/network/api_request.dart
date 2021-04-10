@@ -7,7 +7,7 @@ import 'package:http/http.dart' as http;
 
 final mainUrl = 'https://newsapi.org/v2';
 final topHeadLines = 'top-headlines';
-final apiKey = 'e526a219312a40a88b575f8738537e06';
+final apiKey = 'e526a219377a40a88b975f8738837e06'; // put your news api key here
 
 
 
